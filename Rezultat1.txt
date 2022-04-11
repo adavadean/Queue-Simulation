@@ -1,0 +1,237 @@
+Timp: 0
+Clienți în așteptare:
+(4,2,4) 
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 1
+Clienți în așteptare:
+(4,2,4) 
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 2
+Clienți în așteptare:
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:(4,2,4) 
+Coada 2:goală
+
+Timp: 3
+Clienți în așteptare:
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:(4,2,3) 
+Coada 2:goală
+
+Timp: 4
+Clienți în așteptare:
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:(4,2,2) 
+Coada 2:goală
+
+Timp: 5
+Clienți în așteptare:
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:(4,2,1) 
+Coada 2:goală
+
+Timp: 6
+Clienți în așteptare:
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 7
+Clienți în așteptare:
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 8
+Clienți în așteptare:
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 9
+Clienți în așteptare:
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 10
+Clienți în așteptare:
+(3,11,3) 
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 11
+Clienți în așteptare:
+(1,19,3) 
+(2,30,4) 
+Coada 1:(3,11,3) 
+Coada 2:goală
+
+Timp: 12
+Clienți în așteptare:
+(1,19,3) 
+(2,30,4) 
+Coada 1:(3,11,2) 
+Coada 2:goală
+
+Timp: 13
+Clienți în așteptare:
+(1,19,3) 
+(2,30,4) 
+Coada 1:(3,11,1) 
+Coada 2:goală
+
+Timp: 14
+Clienți în așteptare:
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 15
+Clienți în așteptare:
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 16
+Clienți în așteptare:
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 17
+Clienți în așteptare:
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 18
+Clienți în așteptare:
+(1,19,3) 
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 19
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:(1,19,3) 
+Coada 2:goală
+
+Timp: 20
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:(1,19,2) 
+Coada 2:goală
+
+Timp: 21
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:(1,19,1) 
+Coada 2:goală
+
+Timp: 22
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 23
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 24
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 25
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 26
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 27
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 28
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 29
+Clienți în așteptare:
+(2,30,4) 
+Coada 1:goală
+Coada 2:goală
+
+Timp: 30
+Clienți în așteptare:
+Coada 1:(2,30,4) 
+Coada 2:goală
+
+Timp: 31
+Clienți în așteptare:
+Coada 1:(2,30,3) 
+Coada 2:goală
+
+Timp: 32
+Clienți în așteptare:
+Coada 1:(2,30,2) 
+Coada 2:goală
+
+Timp: 33
+Clienți în așteptare:
+Coada 1:(2,30,1) 
+Coada 2:goală
+
+Timp: 34
+Clienți în așteptare:
+Coada 1:goală
+Coada 2:goală
+
